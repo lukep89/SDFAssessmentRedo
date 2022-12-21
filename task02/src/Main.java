@@ -63,3 +63,11 @@ public class Main {
 
     } // main
 } // class
+
+/*
+ * complier
+ * javac -sourcepath task02 -d task02/classes task02/src/*.java
+ * 
+ * run
+ * java -cp task02/classes Main
+ */
